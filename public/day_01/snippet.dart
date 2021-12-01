@@ -1,6 +1,4 @@
-import 'values.dart';
+// find the input at adventofcode.com
+// import 'values.dart';
 
-void main() {
-  // here are the input values
-  final List<int> inputValues = values;
-}
+void main() {}
