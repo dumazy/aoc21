@@ -1,0 +1,6 @@
+name: Advent of Code workshop
+type: dart
+steps:
+  - name: Day 1
+    directory: day_1
+    has_solution: false
