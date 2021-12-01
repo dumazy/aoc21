@@ -3,4 +3,4 @@ type: dart
 steps:
   - name: Day 1
     directory: day_01
-    has_solution: false
+    has_solution: true
