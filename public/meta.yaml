@@ -4,3 +4,9 @@ steps:
   - name: Day 1
     directory: day_01
     has_solution: true
+  - name: Day 2 - part one
+    directory: day_02
+    has_solution: true
+  - name: Day 2 - part two
+    directory: day_02_part2
+    has_solution: true
