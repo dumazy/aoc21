@@ -1,4 +1,4 @@
-name: Advent of Code workshop
+name: Advent of Code 2021
 type: dart
 steps:
   - name: Day 1
@@ -8,5 +8,11 @@ steps:
     directory: day_02
     has_solution: true
   - name: Day 2 - part two
-    directory: day_02_part2
+    directory: day_02_2
+    has_solution: true
+  - name: Day 3 - part one
+    directory: day_03
+    has_solution: true
+  - name: Day 3 - part two
+    directory: day_03_2
     has_solution: true
