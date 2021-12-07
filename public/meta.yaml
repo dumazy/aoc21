@@ -16,3 +16,27 @@ steps:
   - name: Day 3 - part two
     directory: day_03_2
     has_solution: true
+  - name: Day 4 - part one
+    directory: day_04
+    has_solution: true
+  - name: Day 4 - part two
+    directory: day_04_2
+    has_solution: true
+  - name: Day 5 - part one
+    directory: day_05
+    has_solution: true
+  - name: Day 5 - part two
+    directory: day_05_2
+    has_solution: true
+  - name: Day 6 - part one
+    directory: day_06
+    has_solution: true
+  - name: Day 6 - part two
+    directory: day_06_2
+    has_solution: true
+  - name: Day 7 - part one
+    directory: day_07
+    has_solution: true
+  - name: Day 7 - part two
+    directory: day_07_2
+    has_solution: true
